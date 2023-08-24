@@ -2,6 +2,10 @@
 
 A map is created in the constnats to store type, price and description of any component. We evaluate the total_price using the price stored, description is stored to display this in the response and type is used to verify the logic the each component is used only once.
 
+To run this project:
+Clone it using- https://github.com/AarzooAgarwal/MobileFactoryFanztar.git
+And run localhost server by this command- python3 manage.py runserver
+
 Curl to run create-order:
 
 ```
